@@ -1,0 +1,5 @@
+auth/node_modules
+auth/config/*.env
+wallet/node_modules
+wallet/config/*.env
+.vscode
